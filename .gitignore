@@ -1,8 +1,0 @@
-target/
-*.class
-*.jar
-.env
-application.properties
-.classpath
-.project
-.settings/
